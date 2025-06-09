@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(171, 229, 231);
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+.titulo-principal {
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+.article {
+  background-color: rgb(123, 190, 191);
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 900px;
+  margin: 20px auto;
+}
+
+h1, h2, h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+img {
+  margin: 10px 10px 10px 0;
+  vertical-align: middle;
+}
+
+nav ul li { float:left;
+  list-style: none;
+  margin: 10px;
+
+
+}
+.clearflix{clear:both;
+
+}
+nav{ background-color: rgb(153, 202, 245);
+  height: 50px;
+  line-height: 30px;
+
+
+}
+
+#content{
+background-color: rgb(180, 231, 227);
+}
+
+
+footer {
+  clear: both;
+  background-color: #0a0a0a;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 14px;
+  margin-top: 40px;
+}
